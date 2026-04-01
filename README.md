@@ -14,12 +14,18 @@ An interactive data visualization tool built with **Python** and **Streamlit**. 
     * **Sales Distribution:** Histograms to see the frequency of sales values.
     * **Regional Statistics:** Boxplots to analyze sales variance by location.
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
 - [Streamlit](https://streamlit.io/) - Web framework for Data Science.
 - [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis.
 - [Plotly Express](https://plotly.com/python/plotly-express/) - Interactive plotting library.
 - [NumPy](https://numpy.org/) - Numerical computing.
+
+## 📂 Project Structure
+
+sales-dashboard/  
+│── app.py  
+│── README.md  
 
 ## 🚀 Getting Started
 
