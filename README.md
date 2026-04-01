@@ -34,7 +34,7 @@ How to run the app
 ```bash
 streamlit run app.py
 ```
-📊 Data Source
+## 📊 Data Source
 
 This project uses synthetically generated data for demonstration purposes, including:
 
@@ -42,7 +42,7 @@ Random sales values
 Product categories
 Regional data
 
-🎯 Purpose
+## 🎯 Purpose
 
 This project demonstrates:
 
@@ -51,12 +51,12 @@ Data filtering and manipulation using Pandas
 Creating visualizations with Plotly
 Designing clean and user-friendly data applications
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 Upload and analyze real datasets (CSV/Excel)
 Add authentication
 Deploy online (Streamlit Cloud)
 Add advanced analytics and forecasting
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome. Feel free to fork the project and submit a pull request.
